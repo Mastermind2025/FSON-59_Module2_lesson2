@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FSON-59_Module2_lesson2/static/css/main.7acaea2f.css",
+    "main.js": "/FSON-59_Module2_lesson2/static/js/main.07d3183d.js",
+    "index.html": "/FSON-59_Module2_lesson2/index.html",
+    "main.7acaea2f.css.map": "/FSON-59_Module2_lesson2/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/FSON-59_Module2_lesson2/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
