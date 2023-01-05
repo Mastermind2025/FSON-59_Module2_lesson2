@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 // document.addEventListener('clicl', (event) => {})
 // let count = 0;
 
