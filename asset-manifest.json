@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FSON-59_Module2_lesson2/static/css/main.f722a935.css",
+    "main.css": "/FSON-59_Module2_lesson2/static/css/main.89edb4aa.css",
     "main.js": "/FSON-59_Module2_lesson2/static/js/main.7b7f0ba7.js",
     "index.html": "/FSON-59_Module2_lesson2/index.html",
     "static/media/icon.svg": "/FSON-59_Module2_lesson2/static/media/icon.0264b65687440b675759e05491f490d8.svg",
-    "main.f722a935.css.map": "/FSON-59_Module2_lesson2/static/css/main.f722a935.css.map",
+    "main.89edb4aa.css.map": "/FSON-59_Module2_lesson2/static/css/main.89edb4aa.css.map",
     "main.7b7f0ba7.js.map": "/FSON-59_Module2_lesson2/static/js/main.7b7f0ba7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f722a935.css",
+    "static/css/main.89edb4aa.css",
     "static/js/main.7b7f0ba7.js"
   ]
 }
