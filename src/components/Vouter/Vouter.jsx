@@ -11,7 +11,7 @@ export class Vouter extends Component {
         iphone: 0,
         samsung: 0,
         nokia: 0,
-        nokia2ё: 0,
+        nokia2: 0,
     };
 
     handleClick = event => {
