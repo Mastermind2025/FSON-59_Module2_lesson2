@@ -1,5 +1,5 @@
 body {
-  /* change color background; */
+  /* change my color background; */
   background-color: rgb(93, 120, 152);
   padding: 35px;
   margin: 0;
@@ -8,6 +8,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* here is my width of the counter */
+.count_width{
+  width: 1000px;
 }
 
 code {
